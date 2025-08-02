@@ -45,7 +45,7 @@ Clone this repo
 
 # Run
 Open homepage.html in your browser.
-Or (recommended) use VS Code with Live Serve
+Or (recommended) use VS Code with Live Server.
 
 ### Project Documentation
 For Software:

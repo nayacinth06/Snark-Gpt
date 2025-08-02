@@ -1,96 +1,71 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-
-
-# [Project Name] 🎯
+# [Snark GPT] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Tech Titans]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Abhinaya C A] - [Albertian Institute of Science and Technology]
+- Member 2: [Hannah Deena Tom] - [Albertian Institute of Science and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[SnarkGPT is your new brutally honest, sarcastic chatbot that answers your questions with equal parts sass and disdain.  
+No AI models. No cloud. Just pure handcrafted sarcasm, delivered at lightning speed in your browser.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Tired of boring, polite chatbots?  
+Do you *wish* your computer would roast you instead of helping you?  
+We thought so.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built a chatbot that doesn't care about your feelings.  
+It doesn't just answer — it answers *with attitude*.  
+If you leave this chat without questioning your life choices, we failed.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [**Languages:** HTML, CSS, JavaScript]
+- [**Frameworks:** None (we keep it raw, like the burns)]
+- [**Libraries:** None (our sarcasm is self-made)]
+- [**Tools:** VS Code, Live Server]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ None — just your device and an internet browser.]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[Clone this repo]
 
 # Run
-[commands]
+[Open homepage.html in your browser.
+Or (recommended) use VS Code with Live Serve]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/b04e56d4-e71c-4b6b-bd7a-3d67ac01b29a" />
+]
+Home screen — the calm before the roast.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1920" height="1080" alt="Main" src="https://github.com/user-attachments/assets/a830f89f-187d-4cb5-b657-05fd858820b3" />
+](Add screenshot 2 here with proper name)
+Asking a simple questions — immediately regretting it.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+A simple flow: You → Type → SnarkGPT → Regret
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![<img width="1920" height="1080" alt="build" src="https://github.com/user-attachments/assets/12eb52dd-efeb-4e96-bb3d-d2489a8f392e" />
+]
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abhinaya C A]: [Sarcasm architect, UI/UX roasting specialist]
+- [Hannah Deena Tom]: [Content writer, sarcasm curator, personality calibration engineer]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

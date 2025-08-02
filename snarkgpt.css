@@ -1,0 +1,68 @@
+body {
+  background-image: url("background.jpg"); /* or .png */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+
+.chat-container {
+  width: 400px;
+  height: 600px;
+  background: rgba(255, 255, 255, 0.15); /* transparent white */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  backdrop-filter: blur(12px) saturate(150%);
+  -webkit-backdrop-filter: blur(12px) saturate(150%); /* Safari support */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+
+.heading {
+  font-family: 'Garamond', Georgia, serif;
+  font-size: 22px;
+  text-align: center;
+  padding: 10px;
+  color: #5c4630;
+  border-bottom: 1px solid #bba88e;
+  background-color: #f5e9dc;
+}
+
+#chat-window {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.input-box {
+  display: flex;
+  border-top: 1px solid #bba88e;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  background: #fff0e5;
+  font-family: inherit;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background: #a17f5e;
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+}

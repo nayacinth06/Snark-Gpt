@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body {
+  background-image: url("background.jpg"); /* or .png */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.hero-section{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h1{
+    font-weight:700;
+    letter-spacing: -2px;
+    line-height:1.2;
+    font-family: 'nunito',sans-serif;
+    color: #f8fbfe;
+    text-align: center;
+    font-size: 62px;
+}
+p,a{
+    font-weight: 400;
+    color: #DFFFE2;
+    font-family: 'open-sans',sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    display: inline-block; 
+    padding: 30px 30px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.btn{
+    font-weight:400;
+    font-family: 'poppins',sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    padding:15px 30px;
+    border-radius: 8px;
+    color: #ffffff;
+}
+.btn-primary:link, .btn-primary:visited{
+    background-color:  #555555;
+    border: 2px solid  #ffffff;
+}
+.btn-primary:hover, .btn-primary:active{
+    background-color:#696969;
+    border: 2px solid #ffffff;
+}
+.animated-word span {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.5s forwards;
+}
+
+.animated-word span:nth-child(1) { animation-delay: 0s; }
+.animated-word span:nth-child(2) { animation-delay: 0.1s; }
+.animated-word span:nth-child(3) { animation-delay: 0.2s; }
+.animated-word span:nth-child(4) { animation-delay: 0.3s; }
+.animated-word span:nth-child(5) { animation-delay: 0.4s; }
+.animated-word span:nth-child(6) { animation-delay: 0.5s; }
+.animated-word span:nth-child(7) { animation-delay: 0.6s; }
+.animated-word span:nth-child(8) { animation-delay: 0.7s; }
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -2,74 +2,73 @@
 
 
 
-# [Snark GPT] 🎯
+# Snark GPT 🎯
 
 
 ## Basic Details
-### Team Name: [Tech Titans]
+### Team Name: Tech Titans
 
 
 ### Team Members
-- Member 1: [Abhinaya C A] - [Albertian Institute of Science and Technology]
-- Member 2: [Hannah Deena Tom] - [Albertian Institute of Science and Technology]
+- Member 1: Abhinaya C A - Albertian Institute of Science and Technology
+- Member 2: Hannah Deena Tom - Albertian Institute of Science and Technology
 
 ### Project Description
-[SnarkGPT is your new brutally honest, sarcastic chatbot that answers your questions with equal parts sass and disdain.  
-No AI models. No cloud. Just pure handcrafted sarcasm, delivered at lightning speed in your browser.]
+SnarkGPT is your new brutally honest, sarcastic chatbot that answers your questions with equal parts sass and disdain.  
+No AI models. No cloud. Just pure handcrafted sarcasm, delivered at lightning speed in your browser.
 
 ### The Problem (that doesn't exist)
-[Tired of boring, polite chatbots?  
+Tired of boring, polite chatbots?  
 Do you *wish* your computer would roast you instead of helping you?  
-We thought so.]
+We thought so.
 
 ### The Solution (that nobody asked for)
-[We built a chatbot that doesn't care about your feelings.  
+We built a chatbot that doesn't care about your feelings.  
 It doesn't just answer — it answers *with attitude*.  
-If you leave this chat without questioning your life choices, we failed.]
+If you leave this chat without questioning your life choices, we failed.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [**Languages:** HTML, CSS, JavaScript]
-- [**Frameworks:** None (we keep it raw, like the burns)]
-- [**Libraries:** None (our sarcasm is self-made)]
-- [**Tools:** VS Code, Live Server]
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** None (we keep it raw, like the burns)
+- **Libraries:** None (our sarcasm is self-made)
+- **Tools:** VS Code, Live Server
 
 For Hardware:
-- [ None — just your device and an internet browser.]
+- None — just your device and an internet browser.
 
 ### Implementation
 For Software:
 # Installation
-[Clone this repo]
+Clone this repo
 
 # Run
-[Open homepage.html in your browser.
-Or (recommended) use VS Code with Live Serve]
+Open homepage.html in your browser.
+Or (recommended) use VS Code with Live Serve
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/b04e56d4-e71c-4b6b-bd7a-3d67ac01b29a" />
-]
+<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/33eab95c-d0a8-427a-a360-ddeb89895296" />
+
 Home screen — the calm before the roast.
 
-![<img width="1920" height="1080" alt="Main" src="https://github.com/user-attachments/assets/a830f89f-187d-4cb5-b657-05fd858820b3" />
-](Add screenshot 2 here with proper name)
+<img width="1592" height="755" alt="MainPage" src="https://github.com/user-attachments/assets/b60fe3cf-0271-416f-b96c-dea2c0c47ae5" />
+
 Asking a simple questions — immediately regretting it.
 
 # Diagrams
 A simple flow: You → Type → SnarkGPT → Regret
 
-# Build Photos
-![<img width="1920" height="1080" alt="build" src="https://github.com/user-attachments/assets/12eb52dd-efeb-4e96-bb3d-d2489a8f392e" />
-]
+# Build Photo
+<img width="1592" height="843" alt="BuildMain" src="https://github.com/user-attachments/assets/c9e7b5c8-8116-468d-be4d-43c5f8e37c14" />
 
 
 ## Team Contributions
-- [Abhinaya C A]: [Sarcasm architect, UI/UX roasting specialist]
-- [Hannah Deena Tom]: [Content writer, sarcasm curator, personality calibration engineer]
+- Abhinaya C A: Sarcasm architect, Content writer, UI/UX roasting specialist
+- Hannah Deena Tom: Content writer, sarcasm curator, personality calibration engineer
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

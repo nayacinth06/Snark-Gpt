@@ -49,7 +49,7 @@ Or (recommended) use VS Code with Live Server.
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 <img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/33eab95c-d0a8-427a-a360-ddeb89895296" />
 
 Home screen — the calm before the roast.
